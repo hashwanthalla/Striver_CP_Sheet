@@ -5,4 +5,3 @@ trie after  matrix exponential
 
 99 series after 9
 
-KCPD
